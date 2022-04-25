@@ -1,5 +1,5 @@
 # LemonJamsBot - Heroku
-## My fork of [this](https://github.com/tgcallsjs/LemonJamsBot) repository 
+## My fork of [this](https://github.com/kopay131/LemonJamsBot-Heroku) repository 
 
 To make this repo compatible with heroku and avoid unnecessary conflicts
 we have to break down this whole project into two different parts and
